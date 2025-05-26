@@ -21,7 +21,7 @@ Previously, she served as a researcher applying deep learning and computer-visio
 ## You can follow me here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-profile>)  
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=<your-id>)  
+[![Google Scholar](https://scholar.google.com/citations?hl=en&user=Ed76CfYAAAAJ&view_op=list_works&sortby=pubdate)  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@<your-handle>)  
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://<your-newsletter>.substack.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/<your-channel>)
